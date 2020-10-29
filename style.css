@@ -28,7 +28,7 @@ body, html {
 
 .headerSection {
   display:flex;
-  background-image: url(cover.PNG);
+  background-image: url(cover.png);
   background-size: cover;
   background-position: center center;
   height: 100vh;
